@@ -1,5 +1,6 @@
 // const CONTRACT_NAME = process.env.CONTRACT_NAME ||'awesome-todo'
-const CONTRACT_NAME = process.env.CONTRACT_NAME || 'awesome-todo.ngochung1327.testnet'
+// const CONTRACT_NAME = process.env.CONTRACT_NAME || 'awesome-todo.ngochung1327.testnet'
+const CONTRACT_NAME = process.env.CONTRACT_NAME || 'awesome-todo.hungnn.near'
 
 function getConfig(env) {
   switch (env) {
